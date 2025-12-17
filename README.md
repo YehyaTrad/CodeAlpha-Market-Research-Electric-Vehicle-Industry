@@ -63,8 +63,8 @@ These visualizations help present complex data in a clear and understandable for
 📁 CodeAlpha-Market-Research-Electric-Vehicle-Industry
  ├── 📄 Market_Research_Report_EV_Industry.pdf
  ├── 📊 Charts_and_Graphs
- │    ├── EV_Market_Growth.png
- │    ├── EV_Buyers_Age_Group.png
- │    ├── EV_Market_Share.png
- │    └── EV_Adoption_Factors.png
+ │    ├── EV_Market_Growth Line Chart
+ │    ├── EV_Buyers_Age_Group Pie Chart
+ │    ├── EV_Market_Share Combo Clustered Column-Line
+ │    └── EV_Adoption_Factors 3-D Pie Chart
  └── 📄 README.md
